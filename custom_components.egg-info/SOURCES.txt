@@ -1,0 +1,16 @@
+LICENSE
+MANIFEST.in
+README.md
+package.json
+setup.py
+custom_components/MyCustomComponent.py
+custom_components/__init__.py
+custom_components/_imports_.py
+custom_components/custom_components.min.js
+custom_components/custom_components.min.js.map
+custom_components/metadata.json
+custom_components/package-info.json
+custom_components.egg-info/PKG-INFO
+custom_components.egg-info/SOURCES.txt
+custom_components.egg-info/dependency_links.txt
+custom_components.egg-info/top_level.txt
