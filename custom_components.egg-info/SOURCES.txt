@@ -3,6 +3,7 @@ MANIFEST.in
 README.md
 package.json
 setup.py
+custom_components/GaugeChart.py
 custom_components/MyCustomComponent.py
 custom_components/__init__.py
 custom_components/_imports_.py

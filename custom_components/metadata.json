@@ -1,4 +1,35 @@
 {
+  "src/lib/components/GaugeChart.react.js": {
+    "description": "",
+    "displayName": "GaugeChart",
+    "methods": [],
+    "props": {
+      "id": {
+        "type": {
+          "name": "string"
+        },
+        "required": false,
+        "description": "The ID used to identify this component in Dash callbacks."
+      },
+      "setProps": {
+        "type": {
+          "name": "func"
+        },
+        "required": false,
+        "description": "The data for the chart"
+      },
+      "data": {
+        "type": {
+          "name": "arrayOf",
+          "value": {
+            "name": "array"
+          }
+        },
+        "required": false,
+        "description": ""
+      }
+    }
+  },
   "src/lib/components/MyCustomComponent.react.js": {
     "description": "ExampleComponent is an example component.\nIt takes a property, `label`, and\ndisplays it.\nIt renders an input with the property `value`\nwhich is editable by the user.",
     "displayName": "MyCustomComponent",

@@ -16,7 +16,11 @@
   "author": "aw <aw@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "ramda": "^0.26.1"
+    "dayjs": "^1.10.7",
+    "ramda": "^0.26.1",
+    "react-calendar": "^3.5.0",
+    "react-google-charts": "^3.0.15",
+    "yaml": "^1.10.2"
   },
   "devDependencies": {
     "@babel/core": "^7.5.4",
